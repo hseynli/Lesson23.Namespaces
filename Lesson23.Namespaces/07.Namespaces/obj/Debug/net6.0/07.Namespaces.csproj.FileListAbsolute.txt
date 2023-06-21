@@ -1,0 +1,15 @@
+D:\Projects\VS Projects\Lesson23.Namespaces\07.Namespaces\bin\Debug\net6.0\07.Namespaces.exe
+D:\Projects\VS Projects\Lesson23.Namespaces\07.Namespaces\bin\Debug\net6.0\07.Namespaces.deps.json
+D:\Projects\VS Projects\Lesson23.Namespaces\07.Namespaces\bin\Debug\net6.0\07.Namespaces.runtimeconfig.json
+D:\Projects\VS Projects\Lesson23.Namespaces\07.Namespaces\bin\Debug\net6.0\07.Namespaces.dll
+D:\Projects\VS Projects\Lesson23.Namespaces\07.Namespaces\bin\Debug\net6.0\07.Namespaces.pdb
+D:\Projects\VS Projects\Lesson23.Namespaces\07.Namespaces\obj\Debug\net6.0\07.Namespaces.csproj.AssemblyReference.cache
+D:\Projects\VS Projects\Lesson23.Namespaces\07.Namespaces\obj\Debug\net6.0\07.Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\VS Projects\Lesson23.Namespaces\07.Namespaces\obj\Debug\net6.0\07.Namespaces.AssemblyInfoInputs.cache
+D:\Projects\VS Projects\Lesson23.Namespaces\07.Namespaces\obj\Debug\net6.0\07.Namespaces.AssemblyInfo.cs
+D:\Projects\VS Projects\Lesson23.Namespaces\07.Namespaces\obj\Debug\net6.0\07.Namespaces.csproj.CoreCompileInputs.cache
+D:\Projects\VS Projects\Lesson23.Namespaces\07.Namespaces\obj\Debug\net6.0\07.Namespaces.dll
+D:\Projects\VS Projects\Lesson23.Namespaces\07.Namespaces\obj\Debug\net6.0\refint\07.Namespaces.dll
+D:\Projects\VS Projects\Lesson23.Namespaces\07.Namespaces\obj\Debug\net6.0\07.Namespaces.pdb
+D:\Projects\VS Projects\Lesson23.Namespaces\07.Namespaces\obj\Debug\net6.0\07.Namespaces.genruntimeconfig.cache
+D:\Projects\VS Projects\Lesson23.Namespaces\07.Namespaces\obj\Debug\net6.0\ref\07.Namespaces.dll
