@@ -3,35 +3,49 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Namespaces", "01.Namespaces\01.Namespaces.csproj", "{3084BDD0-EF21-41C5-AAC4-F4FD042C680F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Namespaces", "01.Namespaces\01.Namespaces.csproj", "{3084BDD0-EF21-41C5-AAC4-F4FD042C680F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Namespaces", "02.Namespace\02.Namespaces.csproj", "{639AF0E8-4808-4F10-AE0B-76B77E3164E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Namespaces", "02.Namespace\02.Namespaces.csproj", "{639AF0E8-4808-4F10-AE0B-76B77E3164E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Namespaces", "03.Namespace\03.Namespaces.csproj", "{7CF29B5C-23D8-42C3-A20B-24DCB22A5CCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Namespaces", "03.Namespace\03.Namespaces.csproj", "{7CF29B5C-23D8-42C3-A20B-24DCB22A5CCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Namespaces", "04.Namespace\04.Namespaces.csproj", "{9A7213E2-053C-4792-BF43-589C0EB9D893}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04.Namespaces", "04.Namespace\04.Namespaces.csproj", "{9A7213E2-053C-4792-BF43-589C0EB9D893}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Namespaces", "05.Namespace\05.Namespaces.csproj", "{EF623676-C765-402C-BA02-301A2BD012C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05.Namespaces", "05.Namespace\05.Namespaces.csproj", "{EF623676-C765-402C-BA02-301A2BD012C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Namespaces", "06.Namespace\06.Namespaces.csproj", "{8DFD39B9-1EB2-4918-A480-967A7BDDC7AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06.Namespaces", "06.Namespace\06.Namespaces.csproj", "{8DFD39B9-1EB2-4918-A480-967A7BDDC7AC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Namespaces", "07.Namespaces\07.Namespaces.csproj", "{D6DA19F9-61B2-47A1-B22C-60D2E8542233}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07.Namespaces", "07.Namespaces\07.Namespaces.csproj", "{D6DA19F9-61B2-47A1-B22C-60D2E8542233}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Namespaces", "08.Namespaces\08.Namespaces.csproj", "{6D49EEF1-A66A-44CD-9345-BE03251A6744}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08.Namespaces", "08.Namespaces\08.Namespaces.csproj", "{6D49EEF1-A66A-44CD-9345-BE03251A6744}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Namespaces", "09.Namespaces\09.Namespaces.csproj", "{27FAF919-0080-4F78-A470-F4101ED1CE99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09.Namespaces", "09.Namespaces\09.Namespaces.csproj", "{27FAF919-0080-4F78-A470-F4101ED1CE99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.Namespaces", "10.Namespaces\10.Namespaces.csproj", "{7F38EC34-814A-4F4F-BCB5-523E897C6321}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10.Namespaces", "10.Namespaces\10.Namespaces.csproj", "{7F38EC34-814A-4F4F-BCB5-523E897C6321}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.Namespaces", "11.Namespaces\11.Namespaces.csproj", "{8C72377F-A50A-49B5-92EB-FD3CED7DB184}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11.Namespaces", "11.Namespaces\11.Namespaces.csproj", "{8C72377F-A50A-49B5-92EB-FD3CED7DB184}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.Namespaces", "12.Namespaces\12.Namespaces.csproj", "{350C9039-BFEE-4A4F-A1D4-315D02CD20C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12.Namespaces", "12.Namespaces\12.Namespaces.csproj", "{350C9039-BFEE-4A4F-A1D4-315D02CD20C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13.Namespaces", "13.Namespaces\13.Namespaces.csproj", "{B0682FCA-AAF2-4E55-901B-5E24C59FA14F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13.Namespaces", "13.Namespaces\13.Namespaces.csproj", "{B0682FCA-AAF2-4E55-901B-5E24C59FA14F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.Namespaces", "14.Namespaces\14.Namespaces.csproj", "{E8819327-FFF3-4D15-9F36-58C69E741788}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14.Namespaces", "14.Namespaces\14.Namespaces.csproj", "{E8819327-FFF3-4D15-9F36-58C69E741788}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Namespaces", "15.Namespaces\15.Namespaces.csproj", "{15F7951B-550E-4FD7-AEAE-3CC73724747D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15.Namespaces", "15.Namespaces\15.Namespaces.csproj", "{15F7951B-550E-4FD7-AEAE-3CC73724747D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "16.Namespaces", "16.Namespaces\16.Namespaces.csproj", "{88A55E4F-2C62-4BC5-BB86-6464D722EDB1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17.Namespaces", "17.Namespaces\17.Namespaces.csproj", "{0E28C36E-71E9-48AF-B51C-63FCF5020E85}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18.Namespaces", "18.Namepsaces\18.Namespaces.csproj", "{E884DFC4-2D6F-4DE1-A8B2-0936DE932F93}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19.Namespaces", "19.Namespaces\19.Namespaces.csproj", "{DBE8F5C4-A5B4-466B-8226-F050C4251087}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20.Namespaces", "20.Namespaces\20.Namespaces.csproj", "{8F3F1796-5D9F-4B00-AAA4-3B0B73C37B83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21.Namespaces", "21.Namespaces\21.Namespaces.csproj", "{24B16DBE-EA9E-45F1-AC50-3FD193FDF2D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22.Namespaces", "22.Namespaces\22.Namespaces.csproj", "{12689E99-41B6-4FC9-BE38-1855004A9DCE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -99,6 +113,34 @@ Global
 		{15F7951B-550E-4FD7-AEAE-3CC73724747D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{15F7951B-550E-4FD7-AEAE-3CC73724747D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{15F7951B-550E-4FD7-AEAE-3CC73724747D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88A55E4F-2C62-4BC5-BB86-6464D722EDB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88A55E4F-2C62-4BC5-BB86-6464D722EDB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88A55E4F-2C62-4BC5-BB86-6464D722EDB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88A55E4F-2C62-4BC5-BB86-6464D722EDB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E28C36E-71E9-48AF-B51C-63FCF5020E85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E28C36E-71E9-48AF-B51C-63FCF5020E85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E28C36E-71E9-48AF-B51C-63FCF5020E85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E28C36E-71E9-48AF-B51C-63FCF5020E85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E884DFC4-2D6F-4DE1-A8B2-0936DE932F93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E884DFC4-2D6F-4DE1-A8B2-0936DE932F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E884DFC4-2D6F-4DE1-A8B2-0936DE932F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E884DFC4-2D6F-4DE1-A8B2-0936DE932F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE8F5C4-A5B4-466B-8226-F050C4251087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE8F5C4-A5B4-466B-8226-F050C4251087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE8F5C4-A5B4-466B-8226-F050C4251087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE8F5C4-A5B4-466B-8226-F050C4251087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F3F1796-5D9F-4B00-AAA4-3B0B73C37B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3F1796-5D9F-4B00-AAA4-3B0B73C37B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3F1796-5D9F-4B00-AAA4-3B0B73C37B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3F1796-5D9F-4B00-AAA4-3B0B73C37B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B16DBE-EA9E-45F1-AC50-3FD193FDF2D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B16DBE-EA9E-45F1-AC50-3FD193FDF2D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B16DBE-EA9E-45F1-AC50-3FD193FDF2D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B16DBE-EA9E-45F1-AC50-3FD193FDF2D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12689E99-41B6-4FC9-BE38-1855004A9DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12689E99-41B6-4FC9-BE38-1855004A9DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12689E99-41B6-4FC9-BE38-1855004A9DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12689E99-41B6-4FC9-BE38-1855004A9DCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

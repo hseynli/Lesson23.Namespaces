@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson23.Namespaces.Git\\Lesson23.Namespaces\\04.Namespace\\04.Namespaces.csproj",
+      "projectUniqueName": "D:\\Projects\\VS Projects\\Lesson23.Namespaces\\04.Namespace\\04.Namespaces.csproj",
       "projectName": "04.Namespaces",
-      "projectPath": "D:\\Projects\\VS Projects\\Lesson23.Namespaces.Git\\Lesson23.Namespaces\\04.Namespace\\04.Namespaces.csproj",
+      "projectPath": "D:\\Projects\\VS Projects\\Lesson23.Namespaces\\04.Namespace\\04.Namespaces.csproj",
       "packagesPath": "C:\\Users\\farid.huseynli\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\VS Projects\\Lesson23.Namespaces.Git\\Lesson23.Namespaces\\04.Namespace\\obj\\",
+      "outputPath": "D:\\Projects\\VS Projects\\Lesson23.Namespaces\\04.Namespace\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
